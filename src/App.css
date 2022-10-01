@@ -1,0 +1,49 @@
+* {
+  font-family: "Inter", sans-serif;
+  line-height: 1.6;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f0ead2;
+}
+/*https://coolors.co/palette/f0ead2-dde5b6-adc178-a98467-6c584c*/
+.bg-wood-light {
+  background-color: #f0ead2;
+  /*background-color: #e9d3a3;*/
+}
+
+.bg-wood-dark {
+  background-color: #6c584c;
+  /*background-color: #a4917e;*/
+}
+
+.nav-background {
+  background-color: #dde5b6;
+}
+
+.btn-background {
+  background-color: #adc178;
+}
+
+.header-color {
+  color: #6c584c;
+}
+
+.leafletContainer {
+  width: 100%;
+  height: 500px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.textal {
+  text-align: left;
+}
+@media (max-width: 992px) {
+  .textal {
+    text-align: center;
+  }
+}
