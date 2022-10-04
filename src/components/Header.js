@@ -30,19 +30,25 @@ function Header() {
             <Nav className="me-auto">
               <Nav.Link href="start">Start</Nav.Link>
               <Nav.Link href="ueber-uns">Über uns</Nav.Link>
-              <NavDropdown title="Produkte" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#produkte/1">
+              <NavDropdown
+                title="Produkte und Dienstleistungen"
+                id="basic-nav-dropdown"
+              >
+                <NavDropdown.Item href="#produkte/Bauholz">
+                  Bauholz
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#produkte/Lohnschnitt">
                   Lohnschnitt
                 </NavDropdown.Item>
-                <NavDropdown.Item href="#produkte/2">
-                  Anderer Schnitt
-                </NavDropdown.Item>
-                <NavDropdown.Item href="#produkte/3">
-                  Noch ein anderer Schnitt
+                <NavDropdown.Item href="#produkte/Edelhölzer">
+                  Edelhölzer
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#produkte/4">
-                  Komplett was anderes
+                <NavDropdown.Item href="#produkte/Feuerholz">
+                  Feuerholz
+                </NavDropdown.Item>
+                <NavDropdown.Item href="#produkte/Sägemehl">
+                  Sägemehl
                 </NavDropdown.Item>
               </NavDropdown>
               <Nav.Link href="kontakt">Kontakt</Nav.Link>

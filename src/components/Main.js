@@ -5,14 +5,14 @@ function Main() {
       <div className="row ">
         <p className="col-md-12">Willkommen beim Sägewerk Neubauer</p>
         <div className="col-md-12" style={{ float: "left" }}>
-          <h2>Holz ist unser Element</h2>
+          <h2>Regionale Produkte aus dem Frankenwald</h2>
           <p>
-            Wir lieben Holz und wollen jedem Interessierten Holz als natürliches
-            und ideales Baumaterial bzw. als Werkstoff näher bringen. In unserem
-            Sägewerk in Schmidgaden (zwischen Schwarzenfeld und Nabburg)
-            erreichen wir das mit unserer ausgezeichneten Arbeit und unseren
-            Mitarbeitern vom Fach. Wir sind ein anerkannter und zertifizierter
-            Sägewerkbetrieb, dessen Liebe der Verarbeitung von Holz gilt.
+            Wir sind ein familiengeführtes Sägewerk aus Oberfranken in Haßlach
+            bei Teuschnitz. Unseren Kunden bieten wir Holz als Werkstoff für
+            Ihre individuellen Projekte aus regionalen Wäldern an.
+            Selbstverständlich beraten wir Sie auch gerne, um Ihnen bei
+            Bauvorhaben bestmöglich weiterhelfen zu können. Egal ob es sich um
+            einen Großauftrag oder nur um Kleinmengen handelt.
           </p>
         </div>
       </div>
@@ -21,12 +21,7 @@ function Main() {
       </div>
       <div className="row my-3">
         <p className="col-md-12">
-          Wir lieben Holz und wollen jedem Interessierten Holz als natürliches
-          und ideales Baumaterial bzw. als Werkstoff näher bringen. In unserem
-          Sägewerk in Schmidgaden (zwischen Schwarzenfeld und Nabburg) erreichen
-          wir das mit unserer ausgezeichneten Arbeit und unseren Mitarbeitern
-          vom Fach. Wir sind ein anerkannter und zertifizierter Sägewerkbetrieb,
-          dessen Liebe der Verarbeitung von Holz gilt.
+          Kontaktieren sie uns doch gerne bei Interesse!
         </p>
       </div>
     </main>
