@@ -26,6 +26,19 @@ body {
   background-color: #adc178;
 }
 
+.text-green {
+  color: #adc178;
+}
+a {
+  color: #adc178;
+}
+a:visited {
+  color: adc178;
+}
+a:hover {
+  color: green;
+}
+
 .header-color {
   color: #6c584c;
 }

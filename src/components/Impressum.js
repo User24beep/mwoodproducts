@@ -10,8 +10,8 @@ function Impressum() {
       <h4 className="header-color text-decoration-underline">
         Kontaktaufnahme:
       </h4>
-      <p>Telefon: 00000000000</p>
-      <p>E-Mail: mamamam@gmail.com</p>
+      <p>Telefon: +49 1514 0800282</p>
+      <p>E-Mail: manuel.neubauer@outlook.de</p>
       <h4 className="header-color text-decoration-underline">
         Umsatzsteuer-ID
       </h4>

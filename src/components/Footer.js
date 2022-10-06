@@ -20,10 +20,10 @@ function Footer() {
           </div>
           <div className="row">
             <p className="my-2 col-sm-6">
-              <i class="bi bi-envelope"></i> Mail: manuel@ansd.de
+              <i class="bi bi-envelope"></i> Mail: manuel.neubauer@outlook.de
             </p>
             <a
-              href="mailto:manuel@ansd.de"
+              href="mailto:manuel.neubauer@outlook.de"
               className="btn btn-background col-sm-6"
             >
               <i class="bi bi-envelope"></i> Kontaktieren sie uns über Mail
@@ -38,7 +38,9 @@ function Footer() {
         </div>
       </div>
       <hr></hr>
-      <a href="impressum">Impressum</a>
+      <a href="impressum" className="text-green">
+        Impressum
+      </a>
       <p>©M.Wood Products</p>
     </footer>
   );
