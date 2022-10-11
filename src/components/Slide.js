@@ -17,22 +17,38 @@ function Slide() {
       }}
     >
       <Carousel.Item interval={3000}>
-        <img className="d-block w-100" src={slide0} alt="First slide" />
+        <img
+          className="d-block w-100"
+          src={slide0}
+          alt="Die Säge bei der Arbeit"
+        />
       </Carousel.Item>
       <Carousel.Item interval={3000}>
-        <img className="d-block w-100" src={slide1} alt="Second slide" />
+        <img
+          className="d-block w-100"
+          src={slide1}
+          alt="Holztransport aus dem Frankenwald"
+        />
       </Carousel.Item>
       <Carousel.Item interval={3000}>
-        <img className="d-block w-100" src={slide2} alt="Third slide" />
+        <img className="d-block w-100" src={slide2} alt="Bretter und Balken" />
       </Carousel.Item>
       <Carousel.Item interval={3000}>
-        <img className="d-block w-100" src={slide3} alt="Third slide" />
+        <img
+          className="d-block w-100"
+          src={slide3}
+          alt="Bretter des Sägewerks"
+        />
       </Carousel.Item>
       <Carousel.Item interval={3000}>
-        <img className="d-block w-100" src={slide4} alt="Third slide" />
+        <img
+          className="d-block w-100"
+          src={slide4}
+          alt="Edelholz geschnitten in Bretter"
+        />
       </Carousel.Item>
       <Carousel.Item interval={3000}>
-        <img className="d-block w-100" src={slide5} alt="Third slide" />
+        <img className="d-block w-100" src={slide5} alt="Hobelarbeite" />
       </Carousel.Item>
     </Carousel>
   );

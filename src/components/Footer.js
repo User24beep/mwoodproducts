@@ -41,7 +41,7 @@ function Footer() {
       <a href="impressum" className="text-green">
         Impressum
       </a>
-      <p>©M.Wood Products</p>
+      <p>©2021-2022 M.Wood Products</p>
     </footer>
   );
 }

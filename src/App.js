@@ -66,9 +66,7 @@ function App() {
                 <div className="bg-wood-light">
                   <Header></Header>
                 </div>
-                <div className="p-3">
-                  <WorkInProgress></WorkInProgress>
-                </div>
+                <div className="p-3"></div>
                 <div className="bg-wood-light">
                   <Footer />
                 </div>

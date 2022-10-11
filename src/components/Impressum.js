@@ -15,10 +15,10 @@ function Impressum() {
       <h4 className="header-color text-decoration-underline">
         Umsatzsteuer-ID
       </h4>
-      <h6 className="header-color text-decoration-underline">
-        Umsatzsteuer-Identifikationsnummer gem. § 27 a Umsatzsteuergesetz:
+      <h6 className="">
+        Keine Angabe nach Umsatzsteuer-Identifikationsnummer gem. § 27 a
+        Umsatzsteuergesetz (Kleinunternehmen)
       </h6>
-      <p>DE XXX XXX XXX</p>
       <h4 className="header-color text-decoration-underline">
         Haftungsausschluss – Disclaimer:
       </h4>
@@ -112,7 +112,7 @@ function Impressum() {
         Rechtsverletzungen werden wir derartige Inhalte unverzüglich entfernen.
       </p>
       <hr></hr>
-      <p>©M.Wood Products</p>
+      <p>©2021-2022 M.Wood Products</p>
     </div>
   );
 }
